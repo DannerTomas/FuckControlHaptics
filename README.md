@@ -1,6 +1,6 @@
 # FuckControlHaptics
 
-[中文说明](README_zh.md)
+[中文说明](https://github.com/DannerTomas/FuckControlHaptics/blob/master/README_zh.md)
 
 An LSPosed module that disables haptic feedback when adjusting volume or brightness in the ColorOS 15 control center.
 
